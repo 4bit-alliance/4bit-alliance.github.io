@@ -5,4 +5,5 @@ taskreminder.mysql
 taskreminder.mysql.crypt
 taskreminder.mysql.sql
 taskreminder.template
+taskreminder.time
 taskreminder.yml
